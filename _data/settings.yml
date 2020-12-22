@@ -1,17 +1,17 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: EUNGSUK
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: That is web space of eungsuk.
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
-  image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  name: EUNGSUK
+  image: my_profile.jpg
+  say-hello: 반가워요~ <strong>응석</strong>이의 개인 공간입니당~
+  bio: 호기심에 가득차 있지만, 그 누구보다 게으른 <strong>개발자</strong>. 주요 관심사는 <strong>백엔드 개발</strong>, <strong>운동</strong>, <strong>애니</strong> .. 궁금한 것 있으면 연락주세요~
 
 
 #-------------------------------
@@ -25,13 +25,13 @@ pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: sonny # add your shortname for Disqus Comment.
 
 
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: # Add instagram username
 
 
 #-------------------------------
